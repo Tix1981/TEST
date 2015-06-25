@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+ - "1.8.7"
+ - "1.9.2"
+ - "1.9.3"
+ - rbx
+# uncomment this line if your project needs to run something other than `rake`:
+# script: bundle exec rspec spec
+
+notifications:
+  webhooks:
+    urls:
+      - https://stage.vivifyscrum.com/ciintegrations/travis/fdd21dd6a405cd457e638b6a38bdfbb5
