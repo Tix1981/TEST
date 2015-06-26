@@ -10,4 +10,4 @@ rvm:
 notifications:
   webhooks:
     urls:
-      - https://stage.vivifyscrum.com/ciintegrations/travis/fdd21dd6a405cd457e638b6a38bdfbb5
+      - https://stage.vivifyscrum.com/ciintegrations/travis/217f2d901e17d49952160ca794735606
